@@ -4,8 +4,8 @@
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
-    "build": "ng build --prod",
-    "buid:prod": "ng buid --configuration production --base-href /gbr-shop/", 
+    "build": "ng build",
+    "buid:prod": "ng build --configuration production --base-href /gbr-shop/", 
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
     "serve:ssr:gbr-shop": "node dist/gbr-shop/server/server.mjs"
