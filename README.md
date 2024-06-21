@@ -1,5 +1,5 @@
 # Configuración
-La aplicación permitirá registrarse e ingresar utilizando Json-Server
+Configuracion de daniel
 
 ```
 git clone git clone https://github.com/Entornos-Virtuales-Utng/gbr-shop.git
